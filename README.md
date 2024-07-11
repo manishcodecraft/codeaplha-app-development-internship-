@@ -1,4 +1,4 @@
-# cognizfy-app-development-internship-
+# codeaplha-app-development-internship-
 The Folder Contains the task assigned to me by Cognifyz Technologies, The Task completed by me are as follows
 
 Level 1: Task1:
