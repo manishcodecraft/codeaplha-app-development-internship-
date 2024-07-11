@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Flashcard Quiz</string>
+    <string name="Java_question">Is Java a programming language?</string>
+    <string name="C_question">Is C a high-level language?</string>
+    <string name="Python_question">Is Python a type of snake?</string>
+    <string name="Html_question">Does HTML stand for Hyper Text Markup Language?</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="score_text">Score: %1$d</string>
+</resources>
